@@ -1,0 +1,6 @@
+{
+  "name": "zero-onliner",
+  "version": "1.0.0",
+  "description": "Token  kullanarak birden fazla Discord hesabının çevrimiçi olmasını sağlar",
+  "main": "onliner.js"
+}
