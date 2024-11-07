@@ -2,5 +2,22 @@
   "name": "zero-onliner",
   "version": "1.0.0",
   "description": "Token  kullanarak birden fazla Discord hesabının çevrimiçi olmasını sağlar",
-  "main": "onliner.js"
+  "main": "onliner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerullah/zero-onliner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerullah/zero-onliner/issues"
+  },
+  "homepage": "hhttps://github.com/zerullah/zero-onliner#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js11": "npm:discord.js@^11.6.2"
+  }
 }
